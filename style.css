@@ -79,5 +79,5 @@ a {
 }
 
 .four {
-  
+  grid-area: 4 / 1 / span 2 / span 3;
 }
