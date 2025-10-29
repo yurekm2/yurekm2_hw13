@@ -36,6 +36,7 @@ a {
   width: 400px;
   display: grid;
   grid-template-columns: 100px 50% 200px;
+  grid-template-rows: 40% 50% 50px;
 }
 
 .grid-repeat {
