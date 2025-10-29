@@ -37,7 +37,8 @@ a {
   display: grid;
   /*grid-template-columns: 100px 50% 200px;
   grid-template-rows: 40% 50% 50px;*/
-  grid-template: 40% 50% 50px / 100px 50% 200px;
+  /*grid-template: 40% 50% 50px / 100px 50% 200px;*/
+  grid-template: 1fr 1fr 1fr / 1fr 2fr 1fr:
 }
 
 .grid-repeat {
